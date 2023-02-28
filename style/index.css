@@ -1,0 +1,8 @@
+.img{
+    background-image: url(../images/banner_1.png) , url(../images/overly.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    height: 80vh;
+}
